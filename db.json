@@ -6,6 +6,58 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "tafnis@mail.com",
+      "password": "$2a$10$lXlKISVO2Ot4RZbaJV/i2u3NOx7XUmhR5mEjYmkEFPa47Ugb.3SZa",
+      "firstName": "Ester",
+      "id": 2
+    },
+    {
+      "email": "tafnis@email.com",
+      "password": "$2a$10$KZ3apL9Bov187iMCjoTHwes2ReLCWn9LuIQj2bcxfYdNw5n/eriQS",
+      "name": "Ester",
+      "age": "20",
+      "id": 3
+    }
+  ],
+  "plushies": [
+    {
+      "name": "Teddy Bear",
+      "userId": 2,
+      "price": 10,
+      "category": "Animals",
+      "id": 1
+    },
+    {
+      "name": "Turtle",
+      "userId": 2,
+      "price": 13,
+      "category": "Animals",
+      "id": 2
+    }
+  ],
+  "wishList": [
+    {
+      "name": "Teddy Bear",
+      "userId": 2,
+      "price": 10,
+      "category": "Animals",
+      "id": 1
+    },
+    {
+      "name": "Turtle",
+      "userId": 2,
+      "price": 13,
+      "category": "Animals",
+      "id": 2
+    },
+    {
+      "name": "Turtle",
+      "userId": 1,
+      "price": 13,
+      "category": "Animals",
+      "id": 3
     }
   ]
 }
